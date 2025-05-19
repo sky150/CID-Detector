@@ -1,0 +1,12 @@
+python-dotenv>=1.0.0
+uvicorn
+streamlit
+fastapi>=0.115.0
+python-multipart>=0.0.20
+pytest>=8.0.0
+PyPDF2>=3.0.0
+reportlab>=4.1.0
+spacy>=3.7.0
+ollama
+PyMuPDF
+black
